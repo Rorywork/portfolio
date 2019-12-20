@@ -1,0 +1,22 @@
+{
+  "name": "modern_portfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rorywork/portfolio.git"
+  },
+  "author": "Rory Lindsay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rorywork/portfolio/issues"
+  },
+  "homepage": "https://github.com/Rorywork/portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
